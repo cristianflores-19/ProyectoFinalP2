@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/Automatización-n8n-FF6838?style=for-the-badge&logo=n8n" alt="Automatización: n8n">
   <img src="https://img.shields.io/badge/Lenguaje-%2FJava-7038FF?style=for-the-badge&" alt="Lenguaje: Java">
 </p>
-# Videos del proyecto
 Cristian Flores: https://drive.google.com/file/d/1DDDxcdkVBIXoBggiLATeXa2rti_jtPjj/view?usp=sharing
 Celso Gabriel: https://drive.google.com/file/d/1V1FjHesuyATHYWvL6st_2z5ymH0r6gT1/view?usp=sharing
 
